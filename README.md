@@ -4,7 +4,7 @@
 
 ***
 
-<p align = center>   <img src="https://files.catbox.moe/de82e3.jpg"</p>
+<p align = center>   <img src="https://files.catbox.moe/kukiqn.jpg"</p>
 <p align="center">
 
   <a href="https://github.com/manojmdbot/MANOJ-MD">
