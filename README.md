@@ -3,10 +3,8 @@
 ### <br>  ❖ MANOJ-MD ❖
 ☠️ **`THE WORLD BEST WHATSAPP BOT CREATED BY MANOJ TEACH`** ☠️
 
-  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00008B&center=true&vCenter=true&multiline=false&lines=`MANOJ+-+MD+-+WHATSAPP+BOT`" alt="">
-
-------------
+  <a href="https://cooltext.com"><img src="https://images.cooltext.com/5717887.gif" width="284" height="101" alt="MANOJ MD" /></a>
+<br />
 ***
 
 <p align = center>   <img src="https://cdn.ironman.my.id/i/npqtul.jpg"</p>
