@@ -9,7 +9,7 @@
 ------------
 ***
 
-<p align = center>   <img src="https://files.catbox.moe/kukiqn.jpg"</p>
+<p align = center>   <img src="https://cdn.ironman.my.id/i/npqtul.jpg"</p>
 <p align="center">
 
   <a href="https://github.com/manojmdbot/MANOJ-MD">
